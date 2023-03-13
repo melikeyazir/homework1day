@@ -1,0 +1,21 @@
+; // PYTHON VERİ TİPLERİ
+
+; //     Metin Tipleri
+    
+; //     String (str) : Metinler için kullanılan veri tipidir. Tc numaraları gibi toplama yapılmayacak sayısal veriler için de kullanılır. Tırnak işareti kullanılarak yazılır.
+; //     + işareti metin birleştirmeye yarar
+; //     * işareti metin değeri tekrarlamaya yarar
+    
+; //     Sayısal Tipler ;
+    
+; //             İnteger (int): Tam sayılar için kullanılan veri tipidir.
+; //             Float: Ondalıklı sayılar için kullanılan veri tipidir.
+; //             Complex: Karmaşık sayıları belirtmek için kullanılır. Örnek; 4j
+; //             list:  liste içerisine birden fazla farklı tip yerleştirile bilir
+; //             tuple:listeye benzerdir farkı köşeli parantez terine parantezler içinde kullanılır
+; //               ve içerik read-only salt okunurdur değiştirilemez
+; //             range: for döngüsü ile bilrikte kullanılır
+; //             dict:küme parantezleri ({}) ile çevrelenir
+
+
+
